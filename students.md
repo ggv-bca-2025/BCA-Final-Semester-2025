@@ -36,8 +36,8 @@
 | Rishabh Vaishnav         | [Visit Repository](https://github.com/rishabhvaishnav06/Internship) |
 | Sagar Singh              | [Visit Repository](https://github.com/Sagar23084/Breast-cancer-analysis.git) |
 | Saksham Shrivastava      | [Visit Repository](https://github.com/SakshamShrivastava19/Learn-From-Basics-Frontend) |
+| Saurabh Kumar Yadaw      | [Visit Repository](https://github.com/SaurabhYadaw/Smart-Farming-Agro-Nourish?tab=readme-ov-file) |
 | Saurabh Maurya           | [Visit Repository](https://github.com/saurabhmaurya0666/SalesforceFinalSemCode) |
-| Saurabh Yadaw            | [Visit Repository](https://github.com/SaurabhYadaw/Smart-Farming-Agro-Nourish?tab=readme-ov-file) |
 | Shreya Singh             | [Visit Repository](https://github.com/Shreya667777/Datasets/blob/main/finalproject2.ipynb) |
 | Shrishty Jha             | [Visit Repository](https://github.com/Srishty85/Real-time-motion-detection.git) |
 | Shubham Chandrakar       | [Visit Repository](https://github.com/shubham0317/Study-Notion.git) |
