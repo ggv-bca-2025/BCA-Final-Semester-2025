@@ -18,6 +18,7 @@
 | Heena Kumari Sahu        | [Visit Repository](https://github.com/heenasahu7/BCA-Final-Project) |
 | Hrishabh Yadav           | [Visit Repository](https://github.com/HrishabhYadav1/Green-Machine-Learning) |
 | Krishna Pandey           | [Visit Repository](https://github.com/SaurabhYadaw/Smart-Farming-Agro-Nourish?tab=readme-ov-file) |
+| kumar Shubhranshu        | [Visit Repository](https://github.com/Shubh63/tax.git) |
 | Kumari Aashi             | [Visit Repository](https://github.com/kumariAashi/AIResumeAnalyzer.git) |
 | Kunal Prasad             | [Visit Repository](https://github.com/aloneusnow/ML-Powered-ADHD-Predictor-.git) |
 | Lokesh Kumar Ghritlahare | [Visit Repository](https://github.com/Lokesh6268/A-study-on-clustering-algorithms-) |
@@ -34,6 +35,7 @@
 | Rishabh Jogi             | [Visit Repository](https://github.com/SaurabhYadaw/Smart-Farming-Agro-Nourish?tab=readme-ov-file) |
 | Rishabh Vaishnav         | [Visit Repository](https://github.com/rishabhvaishnav06/Internship) |
 | Sagar Singh              | [Visit Repository](https://github.com/Sagar23084/Breast-cancer-analysis.git) |
+| Saksham Shrivastava      | [Visit Repository](https://github.com/SakshamShrivastava19/Learn-From-Basics-Frontend) |
 | Saurabh Maurya           | [Visit Repository](https://github.com/saurabhmaurya0666/SalesforceFinalSemCode) |
 | Saurabh Yadaw            | [Visit Repository](https://github.com/SaurabhYadaw/Smart-Farming-Agro-Nourish?tab=readme-ov-file) |
 | Shreya Singh             | [Visit Repository](https://github.com/Shreya667777/Datasets/blob/main/finalproject2.ipynb) |
