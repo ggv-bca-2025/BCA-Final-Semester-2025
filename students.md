@@ -1,9 +1,8 @@
 ## Final Semester Projects
-Students Repository 
+### Students Repository for their final year project
 
 | Enrollment No   | Name                    | Repository Link                                                                 |
 |-----------------|-------------------------|----------------------------------------------------------------------------------|
-| 22/GGV/15346    | Sujal Aditya Minj       | [Visit Repository](https://github.com/SujalAditya/ecom-web)                     |
 | GGV/22/15301    | Abhishek Paul           | [Visit Repository](https://github.com/AbhishekPaul-04/Senior-Citizen-Bot-/tree/main) |
 | GGV/22/15302    | ADITYA KUMAR SINGH      | [Visit Repository](https://github.com/adityakusingh/Axtrowl)                    |
 | GGV/22/15303    | Akash Sharma            | [Visit Repository](https://github.com/devakashsharma/GGV-final.git)             |
@@ -42,6 +41,7 @@ Students Repository
 | GGV/22/15343    | Shubham Singh           | [Visit Repository](https://github.com/ShubhamSingh0310/Internship)              |
 | GGV/22/15344    | Sonal Dhruw             | [Visit Repository](https://github.com/sonaaal/AI-TUTOR-PRO.git)                 |
 | GGV/22/15345    | Srishty Jha             | [Visit Repository](https://github.com/Srishty85/Real-time-motion-detection.git) |
+| GGV/22/15346    | Sujal Aditya Minj       | [Visit Repository](https://github.com/SujalAditya/ecom-web)                     |
 | GGV/22/15347    | Sushil Patel            | [Visit Repository](https://github.com/sushil930/canteen-flow.git)               |
 | GGV/22/15349    | Tripurari Nath          | [Visit Repository](https://github.com/tripurari98/ELMS.git)                     |
 | GGV/22/15350    | Vaibhav Khare           | [Visit Repository](https://github.com/vaibhavkhare45/AI-Algorithms)             |
