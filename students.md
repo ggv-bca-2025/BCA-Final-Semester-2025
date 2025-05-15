@@ -27,7 +27,7 @@
 | Mayank Saiyam            | [Visit Repository](https://github.com/MayankSaiyam/CONNECT.git) |
 | Muskan Gupta             | [Visit Repository](https://github.com/Shreya667777/muskan.git) |
 | Omkar Nayak              | [Visit Repository](https://github.com/nayaksomkar/RetinaDx) |
-| Omkar Prasad Dhruw       | [Visit Repository](https://github.com/adkjhfcukis/E-Store.git) |
+| Omkar Prasad Dhruw       | [Visit Repository](https://github.com/OmkarDhruw/Estore) |
 | Parasmani Khunte         | [Visit Repository](https://github.com/PARASMANI-KHUNTE/CafeAutomation) |
 | Prabhanshu Kerketta      | [Visit Repository](https://github.com/Prabhanshu-K7/Agentic-AI-System.git) |
 | Pratik Mukherjee         | [Visit Repository](https://github.com/Pratik085/jobsyhaven2.git) |
